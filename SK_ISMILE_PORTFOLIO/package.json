@@ -1,15 +1,18 @@
-{ "homepage": "https://skismile.github.io",
-"name": "portfolio-skismile",
-"private": true,
+{
+  
+"homepage":"https://skismile.github.io",
+"name":"portfolio-skismile",
+"private":true,
+"version":"1.0.0",
+"description":"",
+"main":"script.js",
 
-  "version": "1.0.0",
-  "description": "",
-  "main": "script.js",
-  "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+"scripts":{
+  "deploy":"gh-pages -d main"
+},
+"keywords":[],
+"author":"",
+"license":"ISC",
+"dependencies":{"gh-pages":"^4.0.0"}
+
 }
