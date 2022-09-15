@@ -586,7 +586,7 @@ footer span a:hover{
 
     .home{
         display: flex;
-        background: url("images/banner-2.jpg") no-repeat fixed ;
+        background: url("images/banner.jpg") no-repeat fixed ;
        
       
         background-size:cover;
@@ -601,6 +601,17 @@ footer span a:hover{
     }
 }
 @media (max-width: 947px){
+    .home{
+        display: flex;
+        background: url("images/banner-2.jpg") no-repeat fixed ;
+       
+      
+        background-size:cover;
+        color: #fff;
+        background-attachment: fixed;
+       
+ 
+    }
     .menu-btn{
         display: block;
         z-index: 999;
@@ -668,7 +679,7 @@ footer span a:hover{
 @media (max-width: 690px) {
     .home{
         display: flex;
-        background: url("images/banner-small.jpg") no-repeat fixed ;
+        background: url("images/banner-2.jpg") no-repeat fixed ;
        
       
         background-size:cover;
@@ -750,12 +761,12 @@ footer span a:hover{
 
     .home{
         display: flex;
-        background: url("images/banner-small.jpg") no-repeat fixed ;
+        background: url("images/banner-2.jpg") no-repeat fixed ;
        
       
         background-size:cover;
         color: #fff;
-        background-attachment: fixed;
+        /* background-attachment: fixed; */
        
  
     }
