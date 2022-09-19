@@ -1,4 +1,4 @@
-###  lookalike of website <span>My Portfolio<span>
+###   website <span>My Portfolio<span>
 
  <h2>Welcome to this repo</h2>
 I was  completed the task in 10 days and Given my 
