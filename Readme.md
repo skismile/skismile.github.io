@@ -2,7 +2,7 @@
 
  <h2>Welcome to this repo</h2>
 I was  completed the task in 10 days and Given my 
- best efforts to Construct this project.
+ best efforts to  this project.
 In case of any suggestion and query feel free to connect me.
  
  <h1>TOOLS AND TECHNOLOGY USED ></h1>
