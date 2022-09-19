@@ -1,25 +1,23 @@
-###  lookalike of website <span>Sephora Clone<span>
+###  lookalike of website <span>My Portfolio<span>
 
  <h2>Welcome to this repo</h2>
- We are team of 6 members ( Dhruv Gupta, SK Ismile, Mitresh, Ranjit Das, Rajnikant Arya, Himanshu Singh ) has completed the task in 5 days and Given our 
+I was  completed the task in 10 days and Given my 
  best efforts to Construct this project.
-In case of any suggestion and query feel free to connect us.
+In case of any suggestion and query feel free to connect me.
  
  <h1>TOOLS AND TECHNOLOGY USED ></h1>
   <li>HTML</li>
   <li>css</li>
 <li>javascript</li>  
 <li>font Awesom icons</li>
-<li>bootstrap (for styling flash mesage)</li>
+<li>bootstrap</li>
 
  
 ### Project Description
  
  
  <h1>About </h1>
-Sephora is a French multinational retailer of famous beauty brand that has captured the hearts of millions of beauty shoppers worldwide. This
-company is also expanding around the globe and is available in several countries. The brand offers different beauty products from high-end beauty
-brands and makes them accessible to users even before purchasing.
+My Portfolio.
 
 ---
 ## Deploymenty Link
