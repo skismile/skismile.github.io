@@ -195,7 +195,7 @@ section .title::after{
     color: darkcyan;
 }
 .home .home-content .text-3{
-    font-size: 40px;
+    font-size: 25px;
     margin: 5px 0;
 }
 .home .home-content .text-3 span{
@@ -312,7 +312,31 @@ section .title::after{
     margin: 10px 0 7px 0;
 }
 
- 
+/* github */
+
+.git-hub{
+    width: 100%;
+    margin-top: 10px;
+    text-align: center;
+
+}
+
+.git-hub h2{
+    color: teal;
+    font-family: 'Poppins', sans-serif;
+}
+
+.github-img-cont{
+    margin-top: 10px;
+width: 100%;
+
+
+
+}
+
+.github-img-cont img{
+    width: 100%;
+}
 
 /* SKILL CLASS */
 
@@ -456,8 +480,8 @@ section .title::after{
     margin: 10px 0 7px 0;
 }
 .teams .carousel .card img{
-    height: 150px;
-    width: 150px;
+    height: 250px;
+    width: 250px;
     object-fit: cover;
     border-radius: 50%;
     border: 5px solid darkcyan ;
