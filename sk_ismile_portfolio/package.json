@@ -1,37 +1,40 @@
 {
-  
+  
 "homepage": "https://skismile.github.io",
-  
+  
 "name": "portfolio-skismile",
-  
+  
 "private": true,
-  
+  
 "version": "1.0.0",
-  
+  
 "description": "",
-  
+  
 "main": "script.js",
-  
+  
 "scripts": {
-  
-  
+  
+  
 "deploy": "gh-pages -d main"
-  
+  
 },
-  
+  
 "keywords": [],
-  
+  
 "author": "",
-  
+  
 "license": "ISC",
-  
+  
 "dependencies": {
-  
-  
+  
+  
 "aos": "^2.3.4",
-  
-  
-"gh-pages": "^4.0.0"
-  
+  
+  
+"gh-pages": "^4.0.0",
+  
+  
+"github-calendar": "^2.3.1"
+  
 }
 }
